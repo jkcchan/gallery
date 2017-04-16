@@ -19,7 +19,8 @@ def get_directories():
 def is_image_path(path):
     return path.endswith('jpg') or \
            path.endswith('jpeg') or \
-           path.endswith('png')
+           path.endswith('png') or \
+           path.endswith('JPG')
 
 
 def get_images(path):
@@ -53,6 +54,7 @@ def run():
         print str(i+1) + ': Processing photos for the album "{album}"'.format(
             album=path)
         config[path] = get_images(path)
+        print config[path]
 
         print '   Done processing {l} photos for "{album}"\n'.format(
             l=len(config[path]),
