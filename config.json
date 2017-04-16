@@ -1,185 +1,92 @@
 {
-  "Travel": [
+  "Calgary": [
     {
-      "width": 1500,
-      "path": "./photos/Travel/20160406-20160505DSCF2086.jpg",
-      "height": 2000
+      "width": 4160,
+      "path": "./photos/Calgary/20150912_113004.jpg",
+      "height": 2340
     },
     {
-      "width": 1500,
-      "path": "./photos/Travel/20160407-20160506DSCF2292.jpg",
-      "height": 2000
+      "width": 4160,
+      "path": "./photos/Calgary/20150912_191436.jpg",
+      "height": 2340
     },
     {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_7438.jpg",
-      "height": 1333
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_7575.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1333,
-      "path": "./photos/Travel/IMG_7593.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_9227.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_9675.jpg",
-      "height": 1333
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_9863.jpg",
-      "height": 2000
-    }
-  ],
-  "Street": [
-    {
-      "width": 2000,
-      "path": "./photos/Street/IMG_5269.jpg",
-      "height": 1333
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Street/IMG_5628.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1820,
-      "path": "./photos/Street/IMG_5959.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Street/IMG_9905.jpg",
-      "height": 1333
-    },
-    {
-      "width": 1333,
-      "path": "./photos/Street/IMG_9966.jpg",
-      "height": 2000
+      "width": 4160,
+      "path": "./photos/Calgary/20151126_090934.jpg",
+      "height": 2340
     }
   ],
   "California": [
     {
-      "width": 1500,
-      "path": "./photos/California/DSCF1725.jpg",
-      "height": 2000
+      "width": 4160,
+      "path": "./photos/California/20160508_134922.jpg",
+      "height": 2340
     },
     {
-      "width": 1500,
-      "path": "./photos/California/DSCF1894.jpg",
-      "height": 2000
+      "width": 4436,
+      "path": "./photos/California/20160814-DSCF6204.jpg",
+      "height": 2957
     },
     {
-      "width": 1500,
-      "path": "./photos/California/DSCF2242.jpg",
-      "height": 2000
+      "width": 4896,
+      "path": "./photos/California/DSCF5405_edit.jpg",
+      "height": 2760
     },
     {
-      "width": 1500,
-      "path": "./photos/California/DSCF2255.jpg",
-      "height": 2000
+      "width": 4896,
+      "path": "./photos/California/DSCF5846.jpg",
+      "height": 3264
     },
     {
-      "width": 1500,
-      "path": "./photos/California/DSCF2338.jpg",
-      "height": 2000
+      "width": 4896,
+      "path": "./photos/California/DSCF58680810162.jpg",
+      "height": 3264
     },
     {
-      "width": 1500,
-      "path": "./photos/California/DSCF2384.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1333,
-      "path": "./photos/California/DSCF2926.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF2986.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/California/DSCF3125.jpg",
-      "height": 1333
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF3168.jpg",
-      "height": 2000
+      "width": 4896,
+      "path": "./photos/California/DSCF62372.jpg",
+      "height": 3264
     }
   ],
-  "People": [
+  "Ottawa": [
     {
-      "width": 2000,
-      "path": "./photos/People/DSCF0238.jpg",
-      "height": 1333
+      "width": 4788,
+      "path": "./photos/Ottawa/20170318-DSCF7088-3.jpg",
+      "height": 3252
+    }
+  ],
+  "Montreal": [
+    {
+      "width": 4444,
+      "path": "./photos/Montreal/20170120-DSCF6644.jpg",
+      "height": 2704
     },
     {
-      "width": 2000,
-      "path": "./photos/People/DSCF0553.jpg",
-      "height": 1333
+      "width": 3994,
+      "path": "./photos/Montreal/20170122-DSCF6701-2.jpg",
+      "height": 3246
     },
     {
-      "width": 2000,
-      "path": "./photos/People/DSCF0589.jpg",
-      "height": 1500
+      "width": 4896,
+      "path": "./photos/Montreal/20170122-DSCF6730.jpg",
+      "height": 3264
+    }
+  ],
+  "Waterloo": [
+    {
+      "width": 4598,
+      "path": "./photos/Waterloo/20161113-DSCF6497.jpg",
+      "height": 3065
     },
     {
-      "width": 1500,
-      "path": "./photos/People/DSCF0802.jpg",
-      "height": 2000
+      "width": 4038,
+      "path": "./photos/Waterloo/20161204-DSCF6544.jpg",
+      "height": 2692
     },
     {
-      "width": 1500,
-      "path": "./photos/People/DSCF1676.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/People/DSCF2438.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1333,
-      "path": "./photos/People/DSCF3044.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/People/DSCF3276.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/People/DSCF3297.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/People/DSCF3315.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/People/DSCF3356.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/People/IMG_7888.jpg",
-      "height": 1250
+      "width": 4678,
+      "path": "./photos/Waterloo/20161209-DSCF6570.jpg",
+      "height": 2180
     }
   ]
 }
